@@ -1,4 +1,3 @@
-js
 // controllers/expenseController.js
 import Expense from "../models/Expense.js";
 import ApprovalRule from "../models/ApprovalRule.js";
